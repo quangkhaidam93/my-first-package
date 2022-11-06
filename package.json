@@ -1,0 +1,20 @@
+{
+  "name": "my-first-package-tobi",
+  "version": "1.0.7",
+  "description": "",
+  "main": "lib/app.js",
+  "types": "lib/app.d.ts",
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^4.8.4"
+  }
+}
